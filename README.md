@@ -1,12 +1,64 @@
-# React + Vite
+# SaaS Landing Page
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern and responsive SaaS landing page design created as part of the Warewe assignment.  
+The landing page includes sections from the **header** to the **footer** with a clean and structured layout.
 
-Currently, two official plugins are available:
+## Live Preview
+[Vercel Live Link](https://saas-landing-page1-8oao7fsfv-adarshs-projects-ea9795bf.vercel.app/)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## GitHub Repository
+[GitHub Repo](https://github.com/AdarshKrishnan007/saas-landing-page)
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+##  Features
+- Fully responsive design for desktop and mobile
+- Clean and reusable component structure
+- Modern UI design following SaaS industry standards
+- Sections: Header, Hero, Features, About, Pricing, About, and Footer
+
+---
+
+## Setup Instructions
+
+1. **Clone the Repository**
+   ```bash
+   git clone https://github.com/AdarshKrishnan007/saas-landing-page.git
+   cd saas-landing-page
+2. **Install Dependencies**
+
+         npm install
+
+4. **Run the Development Server**
+
+         npm run dev
+   
+   Then open http://localhost:3000 in your browser.
+
+6. **Build for Production**
+
+         npm run build
+
+8. **Deploy**
+   
+   -The project is deployed using Vercel.
+   -Connect the GitHub repository to Vercel for automatic deployments.
+   -Every push to main will trigger a new deployment.
+
+## Technologies Used
+
+  -React with Vite
+  -Tailwind CSS for styling
+  -Vercel for deployment
+  -GitHub for version control
+
+ ## Approach & Design
+ 
+ The project was built by:
+  -Planning the layout – dividing the design into reusable components for each section.
+  -Creating the UI – building each section step-by-step, from the header to the footer.
+  -Styling with Tailwind CSS – ensuring full responsiveness for all devices.
+  -Version control – using Git & GitHub to track changes and maintain code history.
+  -Deployment – hosting on Vercel with continuous integration for instant updates.
+
+
