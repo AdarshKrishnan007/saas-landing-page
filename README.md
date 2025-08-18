@@ -28,5 +28,3 @@ This project is a **personal learning implementation** where I converted a Figma
 - **Tailwind CSS**
 - **Vercel** (deployment)
 
-## Project Structure
-
