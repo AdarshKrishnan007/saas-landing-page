@@ -1,7 +1,9 @@
-# SaaS Landing Page
+# Figma to React + Tailwind Responsive Website
 
-A modern and responsive SaaS landing page design created as part of the Warewe assignment.  
-The landing page includes sections from the **header** to the **footer** with a clean and structured layout.
+This project is a **personal learning implementation** where I converted a Figma design into a fully responsive website using **React** and **Tailwind CSS**.  
+
+> Note: This was originally an assignment for a company, and I have improved the design, responsiveness, and UI elements for my portfolio.
+
 
 ## Live Preview
 [Vercel Live Link](https://saas-landing-page-assignment-three.vercel.app/)
@@ -11,64 +13,20 @@ The landing page includes sections from the **header** to the **footer** with a 
 
 ---
 
-##  Features
-- Fully responsive design for desktop and mobile
-- Clean and reusable component structure
-- Modern UI design following SaaS industry standards
-- Sections: Header, Hero, Features, About, Pricing, About, and Footer
+## Features
 
----
+- Fully responsive design for mobile, tablet, and desktop
+- Pixel-perfect implementation of the Figma UI
+- Built with React functional components and hooks
+- Tailwind CSS for fast and modern styling
+- Reusable components and clean folder structure
+- Interactive elements like hover effects and buttons
 
-## Setup Instructions
+## Tech Stack
 
-1. **Clone the Repository**
-   ```bash
-   git clone https://github.com/AdarshKrishnan007/saas-landing-page.git
-   cd saas-landing-page
-2. **Install Dependencies**
+- **React** (functional components, hooks)
+- **Tailwind CSS**
+- **Vercel** (deployment)
 
-         npm install
-
-4. **Run the Development Server**
-
-         npm run dev
-   
-   Then open http://localhost:3000 in your browser.
-
-6. **Build for Production**
-
-         npm run build
-
-8. **Deploy**
-   
-   -The project is deployed using Vercel.
-   
-   -Connect the GitHub repository to Vercel for automatic deployments.
-   
-   -Every push to main will trigger a new deployment.
-
-## Technologies Used
-
-  -React with Vite
-  
-  -Tailwind CSS for styling
-  
-  -Vercel for deployment
-  
-  -GitHub for version control
-
- ## Approach & Design
- 
- The project was built by:
- 
-  -Planning the layout – dividing the design into reusable components for each section.
-  
-  -Creating the UI – building each section step-by-step, from the header to the footer.
-  
-  -Styling with Tailwind CSS – ensuring full responsiveness for all devices.
-  
-  -Version control – using Git & GitHub to track changes and maintain code history.
-  
-  -Deployment – hosting on Vercel with continuous integration for instant updates.
-
+## Project Structure
 
