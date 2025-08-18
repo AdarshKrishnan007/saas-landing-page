@@ -9,7 +9,7 @@ This project is a **personal learning implementation** where I converted a Figma
 [Vercel Live Link](https://saas-landing-page-assignment-three.vercel.app/)
 
 ## GitHub Repository
-[GitHub Repo](https://github.com/AdarshKrishnan007/SaaS-Landing-Page-Assignment)
+[GitHub Repo](https://github.com/AdarshKrishnan007/SaaS-Landing-Page)
 
 ---
 
